@@ -1,0 +1,26 @@
+[
+{
+    "nama" : "Tinker",
+    "umur" : 25,
+    "ranked" : false,
+    "role" : "Mid-Laner",
+    "rank": ["Crusader","Legend","Immortal"],
+    "counter":{
+        "Lawan1" : "Silencer",
+        "Lawan2" : "Storm",
+        "Lawan3" : "Rhasta"
+    }
+},
+{
+    "nama" : "Legion Commander",
+    "umur" : 37,
+    "ranked" : true,
+    "role" : "Off-Laner",
+    "rank": ["Crusader","Legend","Immortal"],
+    "counter":{
+        "Lawan1" : "Skywrath",
+        "Lawan2" : "Faceless Void",
+        "Lawan3" : "Outworld Devourer"
+    }
+}
+]
