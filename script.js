@@ -20,7 +20,7 @@ $(".search-button").on("click", function () {
         });
       });
     },
-    error: () => {
+    error: (e) => {
       console.log(e.responseText);
     },
   });
