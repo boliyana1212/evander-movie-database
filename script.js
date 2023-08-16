@@ -47,7 +47,7 @@ function tampilMovieDetail(element) {
                   </div>
                   <div class="col-md">
                     <ul class="list-group">
-                      <li class="list-group-item"><h4>${element.title} (${element.Year})</h4></li>
+                      <li class="list-group-item"><h4>${element.Title} (${element.Year})</h4></li>
                       <li class="list-group-item">Director: ${element.Director}</li>
                       <li class="list-group-item">Actors: ${element.actors}</li>
                       <li class="list-group-item">Plot : <br />${element.Plot}</li>
